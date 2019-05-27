@@ -1,0 +1,25 @@
+{
+  "name": "china-area-data",
+  "version": "1.0.0",
+  "description": "中国省市区（包括港澳台）行政划分数据",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybwdaisy/china-area-data.git"
+  },
+  "keywords": [
+    "行政区域",
+    "三级联动",
+    "省市区",
+    "港澳台"
+  ],
+  "author": "ybwdaisy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ybwdaisy/china-area-data/issues"
+  },
+  "homepage": "https://github.com/ybwdaisy/china-area-data#readme"
+}
