@@ -2,7 +2,7 @@
   "name": "china-area-data",
   "version": "1.0.0",
   "description": "中国省市区（包括港澳台）行政划分数据",
-  "main": "data.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

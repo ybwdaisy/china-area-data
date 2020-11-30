@@ -1,0 +1,1 @@
+module.exports = require('./data_2020.json');
