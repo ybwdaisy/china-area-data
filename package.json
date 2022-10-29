@@ -1,5 +1,5 @@
 {
-  "name": "china-area-data",
+  "name": "@ybwdaisy/china-area-data",
   "version": "1.0.0",
   "description": "中国省市区（包括港澳台）行政划分数据",
   "main": "index.js",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ybwdaisy/china-area-data/issues"
   },
-  "homepage": "https://github.com/ybwdaisy/china-area-data#readme"
+  "homepage": "https://github.com/ybwdaisy/china-area-data#readme",
+  "dependencies": {
+    "china-area-data": "^5.0.1"
+  }
 }

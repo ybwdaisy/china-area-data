@@ -1,1 +1,1 @@
-module.exports = require('./data_2020.json');
+module.exports = require('./src/data.json');
